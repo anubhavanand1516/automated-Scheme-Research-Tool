@@ -62,7 +62,7 @@ The Automated Scheme Research Tool is a Streamlit application that retrieves, in
     requests
 ## File Structure
 ```bash
-├── app.py             # Main application script
+├── main.py             # Main application script
 ├── requirements.txt   # List of dependencies
 ├── .config            # Environment variables
 ├── README.md          # Documentation
